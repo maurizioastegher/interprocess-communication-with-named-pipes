@@ -1,6 +1,6 @@
 # Comunicazione fra Processi con Named Pipes (FIFO)
 
-Programma che mostra l'utilizzo delle named pipes per stabilire un canale di comunicazione tra due processi, il quale viene utilizzato per la cifratura/decifratura di semplici file di testo.
+Programma che mostra l'utilizzo delle FIFO per stabilire un canale di comunicazione tra due processi, utilizzato per la cifratura/decifratura di semplici file di testo.
 
 ## Authors
 
